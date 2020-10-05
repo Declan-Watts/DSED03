@@ -1,5 +1,5 @@
 <resources>
-  <string name="app_name">BLM Hangman</string>
+  <string name="app_name">Hangman</string>
   <string name="action_settings">Settings</string>
   <string name="welcomeHomePage">Welcome mate, pretty good to have you here</string>
   <string name="nameHint">Please enter your name mate</string>
